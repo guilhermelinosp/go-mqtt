@@ -1,6 +1,6 @@
 module github.com/guilhermelinosp/go-mqtt
 
-go 1.23.2
+go 1.27.0
 
 require github.com/eclipse/paho.mqtt.golang v1.5.0
 
